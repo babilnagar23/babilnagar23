@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDljaWltY3JkZjg4MGR1YTJpdGU5Y3lhOWdvejA0cWEzMmoyZXpneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
-<h4>
+
 - 🌱 I’m currently learning **Machine Learning & AI** <br><br>
 
 - 💻 Working on **Web Development & Data Science Projects** <br><br>
@@ -11,7 +11,7 @@
 - 🚀 Open Source Contributor <br><br>
 
 - 📫 Reach me at: **babilnagar23@gmail.com**
-</h4>
+
 ---
 
 ## 🌐 Connect with me
