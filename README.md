@@ -4,10 +4,13 @@
 
 
 
-- 🌱 I’m currently learning **Machine Learning & AI**
-- 💻 Working on **Web Development & Data Science Projects**
-- 🚀 Open Source Contributor
-- 📫 Reach me at: **bobilnagar23@gmail.com**
+- 🌱 I’m currently learning **Machine Learning & AI** <br><br>
+
+- 💻 Working on **Web Development & Data Science Projects** <br><br>
+
+- 🚀 Open Source Contributor <br><br>
+
+- 📫 Reach me at: **babilnagar23@gmail.com**
 
 ---
 
