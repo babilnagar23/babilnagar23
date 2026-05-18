@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Babil Nagar</h1>
 <h3 align="center">Aspiring Software Developer | Data Science Student</h3>
 <img align="right" alt="Coding" width="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDljaWltY3JkZjg4MGR1YTJpdGU5Y3lhOWdvejA0cWEzMmoyZXpneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
----
 
 - 🌱 I’m currently learning **Machine Learning & AI**
 - 💻 Working on **Web Development & Data Science Projects**
@@ -36,9 +35,9 @@
 
 ## 🚀 Featured Projects
 
-- 🔹 Medassist
-- 🔹 Sales and Inventory Management
-- 🔹 Campus-2-Cash
+- 🩺 MedAssist
+- 🛒 Sales and Inventory Management
+- 💸 Campus-2-Cash
 
 ---
 
