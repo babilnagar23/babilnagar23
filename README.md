@@ -2,6 +2,8 @@
 <h3 align="center">Aspiring Software Developer | Data Science Student</h3>
 <img align="right" alt="Coding" width="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDljaWltY3JkZjg4MGR1YTJpdGU5Y3lhOWdvejA0cWEzMmoyZXpneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
+
+
 - 🌱 I’m currently learning **Machine Learning & AI**
 - 💻 Working on **Web Development & Data Science Projects**
 - 🚀 Open Source Contributor
@@ -28,8 +30,6 @@
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,django,mysql,git,github,vscode" />
 </p>
-
----
 
 ---
 
