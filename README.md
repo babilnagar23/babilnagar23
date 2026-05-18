@@ -17,7 +17,7 @@
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
-<a href="https://github.com/bobilnagar" target="blank">
+<a href="https://github.com/babilnagar23" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 </p>
