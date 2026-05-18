@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Babil Nagar</h1>
 <h3 align="center">Aspiring Software Developer | Data Science Student</h3>
-<img align="right" alt="Coding" width="310" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDljaWltY3JkZjg4MGR1YTJpdGU5Y3lhOWdvejA0cWEzMmoyZXpneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="280" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDljaWltY3JkZjg4MGR1YTJpdGU5Y3lhOWdvejA0cWEzMmoyZXpneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 
