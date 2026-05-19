@@ -10,7 +10,7 @@
 
 - 🚀 Open Source Contributor <br><br>
 
-- 📫 Reach me at: **babilnagar23@gmail.com**
+- 📫 Reach me at: **bobilnagar23@gmail.com**
 
 ---
 
